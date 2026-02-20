@@ -1,0 +1,14 @@
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\Pariñas_ScenarioA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\Pariñas_ScenarioA.AssemblyInfoInputs.cache
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\Pariñas_ScenarioA.AssemblyInfo.cs
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\Pariñas_ScenarioA.csproj.CoreCompileInputs.cache
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\bin\Debug\net10.0\Pariñas_ScenarioA.exe
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\bin\Debug\net10.0\Pariñas_ScenarioA.deps.json
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\bin\Debug\net10.0\Pariñas_ScenarioA.runtimeconfig.json
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\bin\Debug\net10.0\Pariñas_ScenarioA.dll
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\bin\Debug\net10.0\Pariñas_ScenarioA.pdb
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\Pariñas_ScenarioA.dll
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\refint\Pariñas_ScenarioA.dll
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\Pariñas_ScenarioA.pdb
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\Pariñas_ScenarioA.genruntimeconfig.cache
+C:\Users\DIANA PARINAS\source\repos\Pariñas_ScenarioA\Pariñas_ScenarioA\obj\Debug\net10.0\ref\Pariñas_ScenarioA.dll
